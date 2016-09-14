@@ -1,0 +1,12 @@
+What does the rect function do?
+  The rect function draws four lines in relation to each other to form a rectangle based on input parameters defined by the coder.
+
+What does the rectMode function do?
+  The rectMode function defines the way in which the Processor will interpret the input parameters of any follow rect functions.
+
+What is a pixel?
+  A pixel is a coordinate that determines the location of a point in (computer) space.
+
+What is HSB?
+  HSB is an acronym for Hue, Saturation, and Brightness. 
+  It is also an alternate system to the RGB system for defining colors in code.
